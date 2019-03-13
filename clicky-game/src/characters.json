@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Arya Stark",
+    "image": "./images/arya.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Cersei Lannister",
+    "image": "./images/Cersei.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Khal Drogo",
+    "image": "./images/drogo.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "The Hound",
+    "image": "./images/hound.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Jaime Lannister",
+    "image": "./images/jaime.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Joffrey Baratheon",
+    "image": "./images/joffrey.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Jon Snow",
+    "image": "./images/jonSnow.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Daenerys Targaryen",
+    "image": "./images/kalesee.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Eddard Stark",
+    "image": "./images/ned.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Samwell Tarly",
+    "image": "./images/sam.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Sansa Stark",
+    "image": "./images/sansa.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Tyrion Lannister",
+    "image": "./images/tyrion.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Night King",
+    "image": "./images/night-king-web-thumb.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Ygritte",
+    "image": "./images/arrow.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Ramsay Bolton",
+    "image": "./images/gotramsay.png",
+    "clicked": false
+  }
+]
