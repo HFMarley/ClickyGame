@@ -1,0 +1,10 @@
+.cardHolder {
+  width: 100%;
+  margin: auto;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  max-width: 900px;
+}
+.row {
+  align-content: center;
+}
